@@ -1,0 +1,1 @@
+{"name":"gislab-datacenter-map","private":true,"version":"1.0.0","scripts":{"build":"node scripts/build_datacenter_data.cjs","test":"node --test tests/data.test.cjs","test:browser":"playwright test","preview":"node scripts/preview.cjs"},"devDependencies":{"@playwright/test":"1.63.0"}}

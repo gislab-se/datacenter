@@ -6,3 +6,8 @@ datacenter.Rproj
 .selenium/
 data/
 outputs/osm_datacenters_sweden/
+
+.backups/
+node_modules/
+.artifacts/
+test-results/
